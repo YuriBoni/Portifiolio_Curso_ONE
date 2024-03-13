@@ -128,8 +128,10 @@ body{
         justify-content: center;
     }
     .apresentacao{
-        width: auto;
         flex-direction: column-reverse;
+        padding: 5%;
     }
-    
+    .apresentacao__conteudo{
+        width: auto;
+    }
 }
